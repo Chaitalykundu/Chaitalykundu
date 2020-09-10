@@ -1,6 +1,6 @@
 ### Hola Chicos. Chaitaly here 👋
 Welcome to my GitHub profile 
-<!--
+
 **Chaitalykundu/Chaitalykundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Chaitaly Kundu :octocat:, :rocket: from Pune, India. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
@@ -13,4 +13,4 @@ I'm Chaitaly Kundu :octocat:, :rocket: from Pune, India. Currently I am pursuing
 - 😄 Pronouns: she/her :girl:
 - ⚡ Fun fact: I :love: playing guiter :guiter:, experiment on new dish :cooking:, :love: sleeping :sleeping:
 
--->
+
