@@ -2,7 +2,7 @@
 Welcome to my GitHub profile 
 
 
-I'm Chaitaly Kundu :octocat:, :rocket: from Pune, India. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
+I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
 
 - 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning JAVA.
@@ -10,6 +10,6 @@ I'm Chaitaly Kundu :octocat:, :rocket: from Pune, India. Currently I am pursuing
 - 💬 Ask me about anything. I'll try my best to answer
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
 - 😄 Pronouns: she/her :girl:
-- ⚡ Fun fact: I :hearts: playing guiter :guiter:, experiment on new dish :cooking:, :hearts: sleeping :sleeping:
+- ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
 
 
