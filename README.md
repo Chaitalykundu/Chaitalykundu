@@ -16,4 +16,4 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
 
 
-![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu)](https://github.com/chaitaly/github-readme-stats)
+![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu)
