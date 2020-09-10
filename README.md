@@ -19,5 +19,5 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am
 
 
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=tokyonight)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo=github-readme-stats)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHaitalykundu&layout=compact)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHaitalykundu&layout=compact&theme=tokyonight)
