@@ -2,7 +2,10 @@
 Welcome to my GitHub profile 
 
 
+
 I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
+
+
 
 - 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning JAVA.
