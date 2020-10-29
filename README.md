@@ -2,7 +2,7 @@
 Welcome to my GitHub profile 
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Chaitalykundu" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @Chaitalykundu on GitHub">Follow @Chaitalykundu</a>
+<a class="github-button" href="https://github.com/Chaitalykundu" data-color-scheme="no-preference: dark; light: light; dark: light;" data-size="large" data-show-count="true" aria-label="Follow @Chaitalykundu on GitHub">Follow @Chaitalykundu</a>
 
 ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
 
