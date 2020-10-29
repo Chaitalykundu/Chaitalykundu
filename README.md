@@ -1,7 +1,7 @@
 ### Hola Chicos. Chaitaly here 👋
 Welcome to my GitHub profile 
 
-https://david-dm.org/%7B%7BChaitalykundu%7D%7D/%7B%7Bpython%7D%7D.svg
+https://david-dm.org/{{Chaitalykundu}}/{{python}}
 
 I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
 
