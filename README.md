@@ -1,7 +1,7 @@
 ### Hola Chicos. Chaitaly here 👋
 Welcome to my GitHub profile 
 
-![GitHub forks](https://img.shields.io/github/forks/python/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)
+![GitHub forks](https://img.shields.io/github/forks/https://github.com/Chaitalykundu/python/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)
 
 ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
 
