@@ -1,7 +1,7 @@
 ### Hola Chicos. Chaitaly here 👋
 Welcome to my GitHub profile 
 
-[![GitHub forks](https://img.shields.io/github/forks/Chaitaly Kundu/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)]
+[![GitHub forks](https://img.shields.io/github/forks/ChaitalyKundu/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)]
 
 I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
 
