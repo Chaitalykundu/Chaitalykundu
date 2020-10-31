@@ -2,6 +2,11 @@
 Welcome to my GitHub profile 
 
 ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
+![GitHub label](https://img.shields.io/static/v1?label=Python&message=Intermediate&color=<Yellow>)
+![GitHub label](https://img.shields.io/static/v1?label=Web Development&message=Intermediate&color=<Red>)
+![GitHub label](https://img.shields.io/static/v1?label=Java&message=Beginner&color=<green>)
+![GitHub label](https://img.shields.io/static/v1?label=CPP&message=Intermediate&color=<red>)
+
 
 I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
 
