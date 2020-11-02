@@ -29,4 +29,5 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am
 
 # Get in touch
 
-[LinkedIn](http://www.linkedin.com/in/chaitaly-kundu-476968175/)
+* [LinkedIn](http://www.linkedin.com/in/chaitaly-kundu-476968175/)
+* [Twitter](http://https://twitter.com/chaitaly_kundu/ "T")
