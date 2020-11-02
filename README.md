@@ -17,7 +17,7 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am
 - 👯 I’m looking to collaborate on some awesome projects using Python and in Web Development.
 - 💬 Ask me about anything. I'll try my best to answer
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
-- 😄 Pronouns: she/her :girl:
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
 
 
