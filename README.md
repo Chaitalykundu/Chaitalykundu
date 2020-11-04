@@ -1,4 +1,6 @@
-<h3 align="center"> Hola Chicos. Chaitaly here 👋 </h3>
+<h2 align="center"> <b> Hola Chicos. Chaitaly here 👋 </b> </h2>
+<h3 align="center"> <b> A Web Dev learner from India :city_sunset: </b> </h2>
+
 Welcome to my GitHub profile 
 
 ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
