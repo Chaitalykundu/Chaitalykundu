@@ -1,13 +1,13 @@
-<h2 align="center"> <b> Hola Chicos. Chaitaly here 👋 </b> </h2>
-<h3 align="center"> <b> A Web Dev learner from India :city_sunset: </b> </h2>
+<h1 align="center"> <b> Hola Chicos. Chaitaly here 👋 </b> </h1>
+<h2 align="center"> <b> A Web Dev learner :dizzy: from India :city_sunrise: </b> </h2>
 
-Welcome to my GitHub profile 
+### :rainbow: Welcome visitors
 
-![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
+<!-- ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
 ![GitHub label](https://img.shields.io/static/v1?label=Python&message=Intermediate&color=<Yellow>)
 ![GitHub label](https://img.shields.io/static/v1?label=Web_Development&message=Intermediate&color=<Red>)
 ![GitHub label](https://img.shields.io/static/v1?label=Java&message=Beginner&color=<green>)
-![GitHub label](https://img.shields.io/static/v1?label=CPP&message=Intermediate&color=<red>)
+![GitHub label](https://img.shields.io/static/v1?label=CPP&message=Intermediate&color=<red>) -->
 
 
 I'm Chaitaly Kundu :octocat:, from Siliguri, India :city_sunset:. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology, West Bengal, India. I'm the DSC-LEAD on my campus.
