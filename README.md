@@ -1,4 +1,4 @@
-### Hola Chicos. Chaitaly here 👋
+<h3 align="centre"> Hola Chicos. Chaitaly here 👋 </h3>
 Welcome to my GitHub profile 
 
 ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
