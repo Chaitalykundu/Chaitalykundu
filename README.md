@@ -24,7 +24,7 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, West Bengal, India :city_sunset:. C
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
 
-I've beed using github since[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev) years.
+It's [![Years Badge](https://badges.pufler.dev/years/Chaitallykndu)]I've beed using github.
 
 
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=tokyonight)
