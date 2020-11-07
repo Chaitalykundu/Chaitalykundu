@@ -44,3 +44,6 @@ It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been usi
 - [ ] [Twitter](http://twitter.com/chaitaly_kundu/)
 - [ ] [Facebook](http://www.facebook.com/profile.php?id=100008943342189/)
 - [ ] [Instagram](http://www.instagram.com/__m__o_n__i__/)
+
+
+![Gists Badge](https://badges.pufler.dev/gists/Chaitalykundu)
