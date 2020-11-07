@@ -6,6 +6,9 @@
 [![Viewer](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu.svg)](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Chaitalykundu.Chaitalykundu)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
+![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu)
+
+
 
 
 <!-- ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
