@@ -6,11 +6,8 @@
 [![Viewer](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu.svg)](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Chaitalykundu.Chaitalykundu)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
-![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/https://github.com/Chaitalykundu)
 
 
-
-![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
 
 <!-- ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
 ![GitHub label](https://img.shields.io/static/v1?label=Python&message=Intermediate&color=<Yellow>)
@@ -30,6 +27,10 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, West Bengal, India :city_sunset:. C
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
+- Currrently solving: Let Us C by Yashavant Kanetkar
+![Repos Badge](https://badges.pufler.dev/repos/Chaitalykundu/Let-Us-c)
+![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
+
 
 It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github.
 
