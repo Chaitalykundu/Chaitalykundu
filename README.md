@@ -28,7 +28,7 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, West Bengal, India :city_sunset:. C
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
 - Currrently solving: Let Us C by Yashavant Kanetkar
-![Repos Badge](https://badges.pufler.dev/repos/Chaitalykundu/Let-Us-c)
+![Created Badge](https://badges.pufler.dev/created/Chaitalykundu/Let-Us-C)
 ![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
 
 
