@@ -26,6 +26,7 @@ I'm Chaitaly Kundu :octocat:, from Siliguri, West Bengal, India :city_sunset:. C
 
 It's [![Years Badge](https://badges.pufler.dev/years/Chaitallykndu)]I've beed using github.
 
+[![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu)]
 
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=tokyonight)
 
