@@ -4,7 +4,7 @@
 ### :rainbow: Welcome visitors
 
 [![Viewer](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu.svg)](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Chaitalykundu.Chaitalykundu)
 <!-- ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
 ![GitHub label](https://img.shields.io/static/v1?label=Python&message=Intermediate&color=<Yellow>)
 ![GitHub label](https://img.shields.io/static/v1?label=Web_Development&message=Intermediate&color=<Red>)
