@@ -36,7 +36,16 @@ It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been usi
 
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
-<!-- ![Chaitaly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitalykundu) -->
+<!-- ![Chaitaly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitalykundu) 
+
+GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo={Repo name})-->
+
+
+Browser I use:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftedge.svg" />
 
 # Get in touch
 
