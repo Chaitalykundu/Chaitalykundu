@@ -47,24 +47,27 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 # Browser I use
 
 <a href="https://www.google.com/">
-         <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/chrome.jpg" width=80" height="70">
+         <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/chrome2.jpg" width="80" height="70">
 </a>
 <a href="https://developer.microsoft.com/en-us/microsoft-edge/">
- <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/ms_edge.jpg" width=80" height="70">
+ <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/ms_edge.jpg" width="80" height="70">
 </a>
 <a href="https://developer.microsoft.com/en-us/microsoft-edge/">
- <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/firefox.jpg" width=80" height="70">
+ <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/firefox.jpg" width="80" height="70">
 </a>
- 
+ <br>
+  <br>
+ <br>
+                                                                                                                        
  
  <a href="https://www.google.com/">
-         <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/chrome4.jpg" width=80" height="70">
+         <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/chrome4.jpg" width="100" height="100">
 </a>
 <a href="https://developer.microsoft.com/en-us/microsoft-edge/">
- <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/ms_edge2.jpg" width=80" height="70">
+ <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/ms_edge2.jpg" width="100" height="100">
 </a>                                                                                                                             
 <a href="https://www.google.com/">
- <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/firefox2.jpg" width=80" height="70">
+ <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/firefox2.jpg" width="100" height="100">
 </a>
 
 # Get in touch
