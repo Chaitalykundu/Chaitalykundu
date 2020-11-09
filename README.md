@@ -34,7 +34,7 @@
 ![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
 
 
-It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github.
+<!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
 
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
@@ -48,9 +48,9 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftedge.svg" />
 
 <a href="www.google.com">
-         <img alt="Chorme" src="chrome.jpg"
-         width=150" height="70">
-      </a>
+         <img alt="Chorme" src="chrome.jpg"width=30p" height="70">
+</a>
+                               
 # Get in touch
 
 - [ ] [LinkedIn](http://www.linkedin.com/in/chaitaly-kundu-476968175/)
