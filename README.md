@@ -47,6 +47,10 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 # Browser I use
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftedge.svg" />
 
+<a href="www.google.com">
+         <img alt="Chorme" src="chrome.jpg"
+         width=150" height="70">
+      </a>
 # Get in touch
 
 - [ ] [LinkedIn](http://www.linkedin.com/in/chaitaly-kundu-476968175/)
