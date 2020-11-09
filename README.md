@@ -16,9 +16,9 @@
 ![GitHub label](https://img.shields.io/static/v1?label=CPP&message=Intermediate&color=<red>) -->
 
 
-:information_desk_person: I'm Chaitaly Kundu :octocat:, from Siliguri, West Bengal, India :city_sunset:.
-:information_desk_person: Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology.
-:information_desk_person: I'm the DSC-LEAD on my campus.
+:information_desk_person: I'm Chaitaly Kundu :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
+:information_desk_person: Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology.<br>
+:information_desk_person: I'm the DSC-LEAD on my campus. <br>
 
 
 
