@@ -65,7 +65,7 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
      <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/linkedin.jpg" width="40" height="40">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100008943342189">
-     <img alt="facebook" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/facebook.png" width="40" height="40">
+     <img alt="facebook" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/face.png" width="40" height="40">
 </a>
 <a href="http://www.instagram.com/__m__o_n__i__">
      <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/insta.jpg" width="40" height="40">
