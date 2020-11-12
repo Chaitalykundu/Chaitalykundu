@@ -40,6 +40,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
 <!-- ![Chaitaly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitalykundu) 
 
+![Gists Badge](https://badges.pufler.dev/gists/Chaitalykundu)
+
 GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo={Repo name})-->
 
@@ -60,21 +62,15 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 # Get in touch
 
 <a href="http://www.linkedin.com/in/chaitaly-kundu-476968175/">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/linkedin.jpg" width="60" height="70">
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/linkedin.jpg" width="40" height="40">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100008943342189">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/facebook.png" width="60" height="70">
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/facebook2.png" width="40" height="40">
 </a>
 <a href="http://www.instagram.com/__m__o_n__i__">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/insta.jpg" width="60" height="70">
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/insta.jpg" width="40" height="40">
 </a>
 <a href="https://github.com/Chaitalykundu">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="60" height="70">
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="40" height="40">
 </a>
 
-- [ ] [Twitter](http://twitter.com/chaitaly_kundu/)
-- [ ] [Facebook](http://www.facebook.com/profile.php?id=100008943342189/)
-- [ ] [Instagram](http://www.instagram.com/__m__o_n__i__/)
-
-
-![Gists Badge](https://badges.pufler.dev/gists/Chaitalykundu)
