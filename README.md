@@ -74,7 +74,7 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
      <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/reddit.png" width="40" height="40">
 </a>
 <a href="https://twitter.com/chaitaly_kundu">
-     <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/twitter.png" width="40" height="40">
+     <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/twitter2.jpg" width="40" height="40">
 </a>
 <a href="https://github.com/Chaitalykundu">
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="40" height="40">
