@@ -34,28 +34,16 @@
 ![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
 
 
-<!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
-
-![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
-<!-- ![Chaitaly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitalykundu) 
-
-![Gists Badge](https://badges.pufler.dev/gists/Chaitalykundu)
-
-GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo={Repo name})-->
-
-
-# Language I know
+## Language I know
 
 <a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/c.png" width="60" height="60"></a>
 <a> <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/cpp.png" width="60" height="60"></a>
 <a> <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/python3.jpg" width="60" height="60"></a>
 
-# Browser I use
+## Browser I use
 
 <a href="https://www.google.com/">
-     <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/chrome2.jpg" width="60" height="50">
+     <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/chrome2.jpg" width="50" height="50">
 </a>
 <a href="https://developer.microsoft.com/en-us/microsoft-edge/">
      <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/ms_edge.jpg" width="60" height="50">
@@ -65,7 +53,7 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 </a>
  
 
-# Get in touch
+## Get in touch
 
 <a href="http://www.linkedin.com/in/chaitaly-kundu-476968175/">
      <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/linkedin.jpg" width="50" height="50">
@@ -86,3 +74,15 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="50" height="50">
 </a>
 
+
+
+<!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
+
+![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
+<!-- ![Chaitaly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitalykundu) 
+
+![Gists Badge](https://badges.pufler.dev/gists/Chaitalykundu)
+
+GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo={Repo name})-->
