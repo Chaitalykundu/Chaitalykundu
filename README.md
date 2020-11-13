@@ -49,7 +49,7 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 # Language I know
 
 <a>
-     <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/c.png.jpg" width="60" height="60">
+     <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/c.png" width="60" height="60">
 </a>
 
 # Browser I use
