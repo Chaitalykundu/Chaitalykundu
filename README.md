@@ -46,6 +46,12 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo={Repo name})-->
 
 
+# Language I know
+
+<a>
+     <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/c.png.jpg" width="60" height="60">
+</a>
+
 # Browser I use
 
 <a href="https://www.google.com/">
@@ -67,14 +73,14 @@ GitHub extra pins allow you to pin more than 6 repositories in your profile usin
 <a href="https://www.facebook.com/profile.php?id=100008943342189">
      <img alt="facebook" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/face.png" width="40" height="40">
 </a>
+<a href="https://twitter.com/chaitaly_kundu">
+     <img alt="Twiter" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/twitter2.jpg" width="40" height="40">
+</a>
 <a href="http://www.instagram.com/__m__o_n__i__">
      <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/insta.jpg" width="40" height="40">
 </a>
 <a href="https://www.reddit.com/user/Chaitaly-89">
-     <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/reddit.png" width="40" height="40">
-</a>
-<a href="https://twitter.com/chaitaly_kundu">
-     <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/twitter2.jpg" width="40" height="40">
+     <img alt="Reddit" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/reddit.png" width="40" height="40">
 </a>
 <a href="https://github.com/Chaitalykundu">
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="40" height="40">
