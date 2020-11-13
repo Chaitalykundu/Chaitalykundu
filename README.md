@@ -1,4 +1,4 @@
-<h1 align="center"> <b> Hola Chicos. <a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/wave.gif"></a>  Chaitaly here</b></h1>
+<h1 align="center"> <b> Hola Chicos. <a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/wave.gif" width="40" height="40"></a>  Chaitaly here</b></h1>
 <h2 align="center"> <b> A Web Dev learner :dizzy: from India :city_sunrise: </b> </h2>
 
 ### :rainbow: Welcome visitors
