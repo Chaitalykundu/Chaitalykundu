@@ -22,18 +22,18 @@
 
 
 
-- 🔭 I’m currently working on Web Development. 
-- 🌱 I’m currently learning JAVA.
+- 🔭 I’m currently working on **Web Development**. 
+- 🌱 I’m currently learning **JAVA**.
 - 👯 I’m looking to collaborate on some awesome projects using Python and in Web Development.
 - 💬 Ask me about anything. I'll try my best to answer
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
-- Currrently solving: Let Us C by Yashavant Kanetkar
+- Currrently solving: **Let Us C** by **Yashavant Kanetkar**
 ![Created Badge](https://badges.pufler.dev/created/Chaitalykundu/Let-Us-C)
 ![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
 
-
+<a href="https://github.com/Chaitalykundu?tab=repositories">Github Reposetories</a>
 ## Language I know
 
 <a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/c.png" width="60" height="60"></a>
@@ -72,6 +72,9 @@
 </a>
 <a href="https://github.com/Chaitalykundu">
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="50" height="50">
+</a>
+<a href="chaitaly.slg01@gmail.com">
+     <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/gmail.png" width="50" height="50">
 </a>
 
 
