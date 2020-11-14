@@ -74,7 +74,7 @@
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="50" height="50">
 </a>
 <a href="chaitaly.slg01@gmail.com">
-     <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/gmail.png" width="50" height="50">
+     <img alt="Mail" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/gmail.png" width="50" height="50">
 </a>
 
 
