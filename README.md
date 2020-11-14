@@ -3,24 +3,13 @@
 
 ### :rainbow: Welcome visitors
 
-[![Viewer](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu.svg)](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu)
+![Viewer](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Chaitalykundu.Chaitalykundu)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
 
-
-
-<!-- ![GitHub label](https://img.shields.io/static/v1?label=C&message=Intermediate&color=<green>)
-![GitHub label](https://img.shields.io/static/v1?label=Python&message=Intermediate&color=<Yellow>)
-![GitHub label](https://img.shields.io/static/v1?label=Web_Development&message=Intermediate&color=<Red>)
-![GitHub label](https://img.shields.io/static/v1?label=Java&message=Beginner&color=<green>)
-![GitHub label](https://img.shields.io/static/v1?label=CPP&message=Intermediate&color=<red>) -->
-
-
-:information_desk_person: I'm Chaitaly Kundu :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
-:information_desk_person: Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering :computer: from Siliguri Institute of Technology.<br>
-:information_desk_person: I'm the DSC-LEAD of my campus. <br>
-
-
+:raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
+:books: Currently I am pursuing my ***pre-final year B.Tech in Computer Science and Engineering*** :computer: from Siliguri Institute of Technology.<br>
+:reminder_ribbon: I'm the ***DSC-LEAD*** of my campus. <br>
 
 - 🔭 I’m currently working on **Web Development**. 
 - 🌱 I’m currently learning **JAVA**.
@@ -73,11 +62,6 @@
 <a href="https://github.com/Chaitalykundu">
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="50" height="50">
 </a>
-<a href="chaitaly.slg01@gmail.com">
-     <img alt="Mail" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/gmail.png" width="50" height="50">
-</a>
-
-
 
 <!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
 
