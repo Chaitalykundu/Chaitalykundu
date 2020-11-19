@@ -32,13 +32,13 @@
 ## Browser I use
 
 <a href="https://www.google.com/">
-     <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/chrome2.jpg" width="50" height="50">
+     <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/chrome2.jpg" width="50" height="50">
 </a>
 <a href="https://developer.microsoft.com/en-us/microsoft-edge/">
-     <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/ms_edge.jpg" width="60" height="50">
+     <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/ms_edge.jpg" width="60" height="50">
 </a>
 <a href="https://www.mozilla.org/en-US/firefox/">
-     <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/firefox.jpg" width="60" height="50">
+     <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/firefox.jpg" width="60" height="50">
 </a>
  
 
