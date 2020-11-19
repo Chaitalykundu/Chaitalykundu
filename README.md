@@ -25,9 +25,9 @@
 <a href="https://github.com/Chaitalykundu?tab=repositories">Github Reposetories</a>
 ## Language I know
 
-<a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/c.png" width="60" height="60"></a>
-<a> <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/cpp.png" width="60" height="60"></a>
-<a> <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/python3.jpg" width="60" height="60"></a>
+<a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="60" height="60"></a>
+<a> <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/Language/cpp.png" width="60" height="60"></a>
+<a> <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="60" height="60"></a>
 
 ## Browser I use
 
