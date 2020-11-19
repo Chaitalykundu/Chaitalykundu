@@ -34,7 +34,7 @@
 <a href="https://www.google.com/">
      <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/chrome2.jpg" width="40" height="40"></a>
 <a href="https://developer.microsoft.com/en-us/microsoft-edge/">
-     <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/ms_edge.jpg" width="40" height="50"></a>
+     <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/ms_edge.jpg" width="42" height="43"></a>
 <a href="https://www.mozilla.org/en-US/firefox/">
      <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/firefox.jpg" width="40" height="40"></a>
  
@@ -42,23 +42,17 @@
 ## Get in touch
 
 <a href="http://www.linkedin.com/in/chaitaly-kundu-476968175/">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/linkedin.jpg" width="50" height="50">
-</a>
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/linkedin.jpg" width="40" height="40"></a>
 <a href="https://www.facebook.com/profile.php?id=100008943342189">
-     <img alt="facebook" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/face.png" width="50" height="50">
-</a>
+     <img alt="facebook" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/face.png" width="40" height="40"></a>
 <a href="https://twitter.com/chaitaly_kundu">
-     <img alt="Twiter" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/twitter2.jpg" width="50" height="50">
-</a>
+     <img alt="Twiter" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/twitter2.jpg" width="40" height="40"></a>
 <a href="http://www.instagram.com/__m__o_n__i__">
-     <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/insta.jpg" width="50" height="50">
-</a>
+     <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/insta.jpg" width="40" height="40"></a>
 <a href="https://www.reddit.com/user/Chaitaly-89">
-     <img alt="Reddit" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/reddit.png" width="50" height="50">
-</a>
+     <img alt="Reddit" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/reddit.png" width="40" height="40"></a>
 <a href="https://github.com/Chaitalykundu">
-     <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/github.png" width="50" height="50">
-</a>
+     <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/github.png" width="40" height="40"></a>
 
 <!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
 
