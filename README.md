@@ -44,7 +44,7 @@
 <a href="http://www.linkedin.com/in/chaitaly-kundu-476968175/">
      <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/linkedin.jpg" width="40" height="40"></a>
 <a href="https://www.facebook.com/profile.php?id=100008943342189">
-     <img alt="facebook" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/face.png" width="40" height="40"></a>
+     <img alt="facebook" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/facebook.png" width="40" height="40"></a>
 <a href="https://twitter.com/chaitaly_kundu">
      <img alt="Twiter" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/twitter2.jpg" width="40" height="40"></a>
 <a href="http://www.instagram.com/__m__o_n__i__">
