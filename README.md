@@ -22,7 +22,7 @@
 ![Created Badge](https://badges.pufler.dev/created/Chaitalykundu/Let-Us-C)
 ![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
 
-- Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repo.png" width="100" height="50"></a>
+- Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repo.png" width="130" height="70"></a>
 
 <a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="40" height="40"></a>
 <a> <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/cpp.png" width="40" height="40"></a>
