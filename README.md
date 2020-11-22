@@ -57,7 +57,7 @@
 ## Tech site
 
 <a href="https://stackoverflow.com/users/10274210/chaitaly?tab=profile">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png" width="100" height="50"></a>
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png" width="150" height="70"></a>
      
      
 <!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
