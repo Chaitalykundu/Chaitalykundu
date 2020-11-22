@@ -34,7 +34,7 @@
 ## Tech site
 
 <a href="https://stackoverflow.com/users/10274210/chaitaly?tab=profile">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png" width="160" height="75"></a>
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png" width="160"></a>
      
      
 ## Browser I use
