@@ -52,7 +52,14 @@
      <img alt="Reddit" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/reddit.png" width="40" height="40"></a>
 <a href="https://github.com/Chaitalykundu">
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/github.png" width="40" height="40"></a>
+     
+     
+# Tech site
 
+<a href="https://stackoverflow.com/users/10274210/chaitaly?tab=profile">
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png"></a>
+     
+     
 <!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
 
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
