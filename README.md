@@ -54,10 +54,10 @@
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/github.png" width="40" height="40"></a>
      
      
-# Tech site
+## Tech site
 
 <a href="https://stackoverflow.com/users/10274210/chaitaly?tab=profile">
-     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png"></a>
+     <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png" width="100" height="50"></a>
      
      
 <!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
