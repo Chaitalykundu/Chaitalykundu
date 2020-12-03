@@ -39,7 +39,7 @@
  <a href="https://dev.to/chaitalykundu">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chaitaly Kundu's DEV Profile" width="50"></a>
 <a href="https://medium.com/@chaitaly.slg01">
-  <img src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Tech-Site/medium2.png"  width="160">
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftheme.zdassets.com%2Ftheme_assets%2F224203%2F4cbf0061c1ec1a5716fbcb44f094909cd6e39e81.png&imgrefurl=https%3A%2F%2Fhelp.medium.com%2Fhc%2Fen-us&tbnid=-ykpk3c9C-2vaM&vet=12ahUKEwj-t7-WzrLtAhVBNXIKHdUkDFIQMygAegUIARCnAQ..i&docid=QK7WrRln3m5QCM&w=8977&h=2228&q=medium&ved=2ahUKEwj-t7-WzrLtAhVBNXIKHdUkDFIQMygAegUIARCnAQ"  width="160">
 </a>
  
 ## Browser I use
