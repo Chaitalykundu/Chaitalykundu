@@ -36,7 +36,10 @@
 <a href="https://stackoverflow.com/users/10274210/chaitaly?tab=profile">
      <img alt="LinkedIn" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Stackoverflow.png" width="160"></a>
      
-     
+ <a href="https://dev.to/chaitalykundu">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chaitaly Kundu's DEV Profile" height="30" width="30">
+</a>
+ 
 ## Browser I use
 
 <a href="https://www.google.com/">
