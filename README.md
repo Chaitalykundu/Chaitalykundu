@@ -39,7 +39,7 @@
  <a href="https://dev.to/chaitalykundu">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chaitaly Kundu's DEV Profile" height="40" width="50"></a>
 <a href="https://medium.com/@chaitaly.slg01">
-  <img src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/medium.png" height="40" width="50">
+  <img src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/medium.png" height="30" width="40">
 </a>
  
 ## Browser I use
