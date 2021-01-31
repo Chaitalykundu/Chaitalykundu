@@ -19,8 +19,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
 - Currrently solving: **Let Us C** by **Yashavant Kanetkar**
-![Created Badge](https://badges.pufler.dev/created/Chaitalykundu/Let-Us-C)
-![Updated Badge](https://badges.pufler.dev/updated/Chaitalykundu/Let-Us-C)
+
 
 - Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repos.png" width="130"></a>
 
