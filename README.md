@@ -3,7 +3,6 @@
 
 ### :rainbow: Welcome visitors
 
-![Viewer](http://hits.dwyl.com/Chaitalykundu/Chaitalykundu.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Chaitalykundu.Chaitalykundu)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
 
