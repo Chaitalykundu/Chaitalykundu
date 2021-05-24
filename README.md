@@ -11,7 +11,7 @@
 :reminder_ribbon: I'm the ***DSC-LEAD*** of my campus. <br>
 
 - 🔭 I’m currently working on **Web Development**. 
-- 🌱 I’m currently learning **JAVA**.
+<!-- - 🌱 I’m currently learning **JAVA**. -->
 - 👯 I’m looking to collaborate on some awesome projects using Python and in Web Development.
 - 💬 Ask me about anything. I'll try my best to answer
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
