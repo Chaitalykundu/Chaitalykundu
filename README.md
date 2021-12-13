@@ -7,7 +7,7 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
 
 :raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
-:books: Currently I am pursuing my ***pre-final year B.Tech in Computer Science and Engineering*** :computer: from Siliguri Institute of Technology.<br>
+:books: Currently I am pursuing my ***final year B.Tech in Computer Science and Engineering*** :computer: from Siliguri Institute of Technology.<br>
 :reminder_ribbon: I'm the ***DSC-LEAD*** of my campus. <br>
 
 - 🔭 I’m currently working on **Web Development**. 
