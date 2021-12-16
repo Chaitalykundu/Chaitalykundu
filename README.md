@@ -25,7 +25,7 @@
 
 ## Language I know
 
-<a align = "centre"> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="40" height="40">
+<a  style="align:center;"> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="40" height="40">
 <!-- </a>
 <a> -->
      <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/cpp.png" width="40" height="40">
