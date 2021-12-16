@@ -26,14 +26,14 @@
 ## Language I know
 
 <a  style="align:center;"> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="40" height="40">
-<!-- </a>
-<a> -->
+</a>
+<a align=center>
      <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/cpp.png" width="40" height="40">
-<!-- </a>
-<a>  -->
+</a>
+<a align:"center"> 
      <img alt="Java" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/java.png" width="40" height="40">
-<!-- </a>
-<a> -->
+</a>
+<a align="center">
      <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
 
 ## Tech site
