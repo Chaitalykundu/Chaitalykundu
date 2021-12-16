@@ -28,7 +28,7 @@
 <a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="40" height="40"></a>
 <a> <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/cpp.png" width="40" height="40"></a>
 <a> <img alt="Java" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/java.png" width="40" height="40"></a>
-<a> <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
+<a align="center"> <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
 
 
 ## Tech site
@@ -39,7 +39,7 @@
  <a href="https://dev.to/chaitalykundu">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chaitaly Kundu's DEV Profile" width="50"></a>
 <a href="https://medium.com/@chaitaly">
-  <img src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Tech-Site/m.png"  width="150">
+  <img src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Tech-Site/m.png"  width="170">
 </a>
  
  
