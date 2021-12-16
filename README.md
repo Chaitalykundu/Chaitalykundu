@@ -25,16 +25,11 @@
 
 ## Language I know
 
-<a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="40" height="40">
-</a>
-<a>
-     <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/cpp.png" width="40" height="40">
-</a>
-<a> 
-     <img alt="Java" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/java.png" width="40" height="40">
-</a>
-<a>
-     <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
+<a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/c.png" width="40" height="40"></a>
+<a> <img alt="C++" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/cpp.png" width="40" height="40"></a>
+<a> <img alt="Java" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/java.png" width="40" height="40"></a>
+<a> <img alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
+
 
 ## Tech site
 
@@ -44,15 +39,16 @@
  <a href="https://dev.to/chaitalykundu">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chaitaly Kundu's DEV Profile" width="50"></a>
 <a href="https://medium.com/@chaitaly">
-  <img src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Tech-Site/m.png"  width="160">
+  <img src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Tech-Site/m.png"  width="150">
 </a>
+ 
  
 ## Browser I use
 
 <a href="https://www.google.com/">
      <img alt="Chorme" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/chrome2.jpg" width="40" height="40"></a>
 <a href="https://developer.microsoft.com/en-us/microsoft-edge/">
-     <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/ms_edge.jpg" width="42" height="43"></a>
+     <img alt="MS-Edge" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/ms_edge.jpg" width="42" height="40"></a>
 <a href="https://www.mozilla.org/en-US/firefox/">
      <img alt="Firefox" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Browser/firefox.jpg" width="40" height="40"></a>
  
