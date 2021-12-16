@@ -70,14 +70,5 @@
     
      
      
-     
-It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github.
-
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
-![Chaitaly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitalykundu) 
-
-![Gists Badge](https://badges.pufler.dev/gists/Chaitalykundu)
-
-GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo={Repo name})
