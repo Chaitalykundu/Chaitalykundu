@@ -70,13 +70,10 @@
     
      
      
-     <a href="https://github.com/Chaitalykundu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo=github-readme-stats" />
-</a>
      
 <!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
 
-![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
+![Chaitaly's github stats]( align="center" https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
 <!-- ![Chaitaly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitalykundu) 
 
