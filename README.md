@@ -70,6 +70,10 @@
     
      
      
+     <a href="https://github.com/Chaitalykundu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitalykundu&repo=github-readme-stats" />
+</a>
+     
 <!-- It's ![Years Badge](https://badges.pufler.dev/years/Chaitallykndu) I've been using github. -->
 
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
