@@ -3,10 +3,7 @@
 
 ### :rainbow: Welcome visitors
 <!-- GitHub profile visitor count, followers-->
-![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu) [![Github](https://img.shields.io/github/followers/Chaitalykundu?label=Follow&style=social)](https://github.com/Chaitalykundu)
-
-
-![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
+![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu)  [![Github](https://img.shields.io/github/followers/Chaitalykundu?label=Follow&style=social)](https://github.com/Chaitalykundu)  ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
 
 :raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
 :books: Currently I am pursuing my ***final year B.Tech in Computer Science and Engineering*** :computer: from Siliguri Institute of Technology.<br>
@@ -73,6 +70,8 @@
      
 <!--   Most used Language    -->
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical ) [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&layout=compact&theme=radical)](https://github.com/Chaitalykundu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&theme=radical)
+
 
 <!-- Streak  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chaitalykundu&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
