@@ -2,9 +2,9 @@
 <h2 align="center"> <b> A Web Dev learner :dizzy: from India :city_sunrise: </b> </h2>
 
 ### :rainbow: Welcome visitors
-<!-- GitHub profile visitor count -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Chaitalykundu.Chaitalykundu)
-![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu)
+<!-- GitHub profile visitor count, followers-->
+![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu) [![Github](https://img.shields.io/github/followers/Chaitalykundu?label=Follow&style=social)](https://github.com/Chaitalykundu)
+
 
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
 
