@@ -72,3 +72,6 @@
      
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
+
+[![Chaitaly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitalykundu&theme=dracula)](https://github.com/Chaitalykundu/github-readme-activity-graph)
+
