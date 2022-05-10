@@ -2,8 +2,10 @@
 <h2 align="center"> <b> A Web Dev learner :dizzy: from India :city_sunrise: </b> </h2>
 
 ### :rainbow: Welcome visitors
-
+<!-- GitHub profile visitor count -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Chaitalykundu.Chaitalykundu)
+![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu)
+
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
 
 :raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
