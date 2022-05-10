@@ -69,9 +69,16 @@
      <img alt="Github" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/github.png" width="40" height="40"></a>
     
      
-     
+<!--   Most used Language    -->
 ![Chaitaly's github stats](https://github-readme-stats.vercel.app/api?username=Chaitalykundu&show_icons=true&theme=radical )
+
+<!-- Streak  -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chaitalykundu&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=synthwave)
 
+<!-- Activity Graph -->
 [![Chaitaly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitalykundu&theme=dracula)](https://github.com/Chaitalykundu/github-readme-activity-graph)
 
