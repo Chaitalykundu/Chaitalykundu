@@ -16,7 +16,7 @@
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
-- Currrently solving: **Let Us C** by **Yashavant Kanetkar**
+<!-- - Currrently solving: **Let Us C** by **Yashavant Kanetkar** -->
 
 
 - Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repos.png" width="130"></a>
