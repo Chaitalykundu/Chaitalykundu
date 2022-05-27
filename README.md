@@ -17,10 +17,10 @@
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
 <!-- - Currrently solving: **Let Us C** by **Yashavant Kanetkar** -->
 
-
+<br>
 <!-- - Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repos.png" width="130"></a>
  -->
-## Leadership Skills and Team Work
+## Leadership 
 - Google Developer Student Clubs Lead
 - Microfost Learn Student Ambassador
 <br>
