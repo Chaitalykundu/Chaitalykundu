@@ -7,11 +7,10 @@
 
 :raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
 :books: Currently I am pursuing my ***final year B.Tech in Computer Science and Engineering*** :computer: from Siliguri Institute of Technology.<br>
-:reminder_ribbon: I'm the ***DSC-LEAD*** of my campus. <br>
 
 - 🔭 I’m currently working on **Web Development**. 
 <!-- - 🌱 I’m currently learning **JAVA**. -->
-- 👯 I’m looking to collaborate on some awesome projects using Python and in Web Development.
+- 👯 I’m looking to collaborate on some awesome projects in Web Development.
 - 💬 Ask me about anything. I'll try my best to answer
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
 - 😄 Pronouns: she/her
@@ -21,6 +20,9 @@
 
 - Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repos.png" width="130"></a>
 
+<h2> Leadership Skills and Team Work</h2>
+- Google Developer Student Clubs Lead
+- Microfost Learn Student Ambassador
 
 ## Language I know
 
