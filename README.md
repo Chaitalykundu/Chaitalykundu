@@ -20,9 +20,10 @@
 
 - Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repos.png" width="130"></a>
 
-<h2> Leadership Skills and Team Work</h2>
+## Leadership Skills and Team Work
 - Google Developer Student Clubs Lead
 - Microfost Learn Student Ambassador
+
 
 ## Language I know
 
