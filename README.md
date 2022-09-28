@@ -68,6 +68,8 @@
      <img alt="Instagram" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/insta.jpg" width="40" height="40"></a>
 <a href="https://www.reddit.com/user/Chaitaly-89">
      <img alt="Reddit" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/reddit.png" width="40" height="40"></a>
+     
+     
 [![@chaitaly01's Holopin board](https://holopin.io/api/user/board?user=chaitaly01)](https://holopin.io/@chaitaly01)
 
      
