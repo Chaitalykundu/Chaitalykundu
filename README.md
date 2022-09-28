@@ -3,7 +3,7 @@
 
 ### :rainbow: Welcome visitors
 <!-- GitHub profile visitor count, followers-->
-![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu)  [![Github](https://img.shields.io/github/followers/Chaitalykundu?label=Follow&style=social)](https://github.com/Chaitalykundu)  ![Commits Badge](https://badges.pufler.dev/commits/monthly/Chaitalykundu)
+![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu)  [![Github](https://img.shields.io/github/followers/Chaitalykundu?label=Follow&style=social)](https://github.com/Chaitalykundu)  
 
 :raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
 :books: Currently I am pursuing my ***final year B.Tech in Computer Science and Engineering*** :computer: from Siliguri Institute of Technology.<br>
@@ -16,11 +16,13 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I :heart: playing guitar :guitar:, experiment with new dish, :heart: sleeping :sleeping:
  <br>
-<!-- - Currrently solving: **Let Us C** by **Yashavant Kanetkar** -->
 
 
-<!-- - Github Repositories: <a href="https://github.com/Chaitalykundu?tab=repositories"><img alt="Repository" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/repos.png" width="130"></a>
- -->
+
+[![@chaitaly01's Holopin board](https://holopin.io/api/user/board?user=chaitaly01)](https://holopin.io/@chaitaly01)
+
+
+
 ## Achievements
 - Google Developer Student Clubs Lead
 - Microfost Learn Student Ambassador
@@ -70,7 +72,6 @@
      <img alt="Reddit" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Social-Media/reddit.png" width="40" height="40"></a>
      
      
-[![@chaitaly01's Holopin board](https://holopin.io/api/user/board?user=chaitaly01)](https://holopin.io/@chaitaly01)
 
      
 <!--   Most used Language    -->
