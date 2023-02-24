@@ -35,9 +35,8 @@
 <a> <img align="center" alt="Java" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/java.png" width="40" height="40"></a>
 <a> <img align="center" alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
 
-<br>
-![Chaitaly's LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Signika)
-<br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Suravaram)
 
 
 ## Tech site
