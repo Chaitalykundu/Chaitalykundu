@@ -36,8 +36,7 @@
 <a> <img align="center" alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
 
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Signika)
-
+![Chaitaly's LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Signika)
 <br>
 
 
@@ -93,6 +92,4 @@
 
 <!-- Activity Graph -->
 [![Chaitaly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitalykundu&theme=radical)](https://github.com/Chaitalykundu/github-readme-activity-graph)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Signika)
 
