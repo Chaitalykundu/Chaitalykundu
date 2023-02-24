@@ -35,6 +35,11 @@
 <a> <img align="center" alt="Java" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/java.png" width="40" height="40"></a>
 <a> <img align="center" alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
 
+<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+
+<br>
+
 
 ## Tech site
 
