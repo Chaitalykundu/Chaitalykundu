@@ -94,3 +94,5 @@
 <!-- Activity Graph -->
 [![Chaitaly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitalykundu&theme=radical)](https://github.com/Chaitalykundu/github-readme-activity-graph)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Signika)
+
