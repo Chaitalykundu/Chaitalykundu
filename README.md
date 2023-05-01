@@ -6,7 +6,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chaitalykundu.Chaitalykundu)  [![Github](https://img.shields.io/github/followers/Chaitalykundu?label=Follow&style=social)](https://github.com/Chaitalykundu)  
 
 :raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
-:books: Currently I am pursuing my ***final year B.Tech in Computer Science and Engineering*** :computer: from Siliguri Institute of Technology.<br>
 
 - 🔭 I’m currently working on **Web Development**. 
 <!-- - 🌱 I’m currently learning **JAVA**. -->
