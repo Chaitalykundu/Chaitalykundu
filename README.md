@@ -35,7 +35,7 @@
 <a> <img align="center" alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Suravaram)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Suravaram)](https://leetcode.com/chaitaly123/)
 
 
 ## Tech site
@@ -89,5 +89,5 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&langs_count=8&theme=radical) -->
 
 <!-- Activity Graph -->
-[![Chaitaly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitalykundu&theme=radical)](https://github.com/Chaitalykundu/github-readme-activity-graph)
+<!-- [![Chaitaly's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chaitalykundu&theme=radical)](https://github.com/Chaitalykundu/github-readme-activity-graph) -->
 
