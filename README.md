@@ -35,7 +35,7 @@
 <a> <img align="center" alt="Python" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/Language/python3.jpg" width="40" height="40"></a>
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/chaitaly123?theme=dark&font=Suravaram)](https://leetcode.com/chaitalykundu/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chaitalykundu?theme=dark&font=Suravaram)](https://leetcode.com/chaitalykundu/)
 
 
 ## Tech site
