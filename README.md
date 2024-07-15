@@ -8,7 +8,6 @@
 :raising_hand_woman: I'm ***Chaitaly Kundu*** :octocat:, from Siliguri, West Bengal, India :city_sunset:. <br>
 
 - 🔭 I’m currently working on **Web Development**. 
-<!-- - 🌱 I’m currently learning **JAVA**. -->
 - 👯 I’m looking to collaborate on some awesome projects in Web Development.
 - 💬 Ask me about anything. I'll try my best to answer
 - 📫 How to reach me: :e-mail: chaitaly.slg01@gmail.com
