@@ -1,5 +1,5 @@
 <h1 align="center"> <b> Hola Chicos. <a> <img alt="C" src="https://github.com/Chaitalykundu/Chaitalykundu/blob/master/assets/wave.gif" width="40" height="40"></a>  Chaitaly here</b></h1>
-<h2 align="center"> <b> A Web Dev learner :dizzy: from India :city_sunrise: </b> </h2>
+<h2 align="center"> <b> A Web Developer :dizzy: from India :city_sunrise: </b> </h2>
 
 ### :rainbow: Welcome visitors
 <!-- GitHub profile visitor count, followers-->
@@ -22,8 +22,8 @@
 
 
 ## Achievements
-- Google Developer Student Clubs Lead
-- Microfost Learn Student Ambassador
+- Google Developer Student Club SIT Lead
+- Microsoft Learn Student Ambassador
 <br>
 
 ## Language I know
@@ -81,6 +81,8 @@
 
 <!-- Streak  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chaitalykundu&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitalykundu&layout=compact&theme=radical)](https://github.com/Chaitalykundu/github-readme-stats) -->
 
 
